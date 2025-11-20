@@ -1,0 +1,5 @@
+{
+  "name": "Gemini 3 Pro Architect",
+  "description": "A professional-grade interface for the Gemini 3 Pro model, featuring advanced reasoning capabilities, adjustable thinking budgets, and code generation tools.",
+  "requestFramePermissions": []
+}
